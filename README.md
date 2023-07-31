@@ -18,7 +18,7 @@ I welcome feedback, suggestions, and contributions from the community. If you ha
 
 ## Challenges List
 
-1. [Simple Card](challenge-1)
+1. [Simple Card](CSS-Card)
 2. [Stylish Buttons](challenge-2)
 3. [Custom Input Fields](challenge-3)
 4. [Responsive Navbar](challenge-4)
